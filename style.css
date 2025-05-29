@@ -1,0 +1,35 @@
+@font-face {
+    font-family:'Castelar';
+    src: url(CASTELAR.TTF);
+}
+
+@font-face {
+    font-family:'Constantia';
+    src: url(CONSTAN.TTF);
+}
+
+body {
+    font-family:'Constantia', serif;
+    font-size: 15pt;
+    background-color:mediumspringgreen;
+    margin: 40px;
+    padding: 20px;
+    border-width: 10px;
+    border-style:inset;
+    border-color:seagreen;
+}
+
+h1 {
+    font-family:'Castelar', fantasy;
+    font-size: 60pt;
+    text-align-last: center;
+}
+
+h2 {
+    font-size:30pt;
+    line-height:25pt;
+}
+
+.mylinks {
+    word-spacing:4700%;
+}
